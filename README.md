@@ -5,13 +5,13 @@ hacking interface in movies
 GO TO >>
 https://github.com/GitSquared/edex-ui/releases
 
-SCROLL DOWN TO ASSETS then
+SCROLL DOWN TO ASSETS then TAP ON
 
 eDEX-UI-Linux-x86_64.AppImage  
 
 and download
 
-Tap on >>![Screenshot from 2023-02-11 23-01-07](https://user-images.githubusercontent.com/70329325/218272205-27083d1f-230c-4a3a-ae27-1488cd745073.png)
+![Screenshot from 2023-02-11 23-01-07](https://user-images.githubusercontent.com/70329325/218272205-27083d1f-230c-4a3a-ae27-1488cd745073.png)
 
 Enter the downloads folder in linux terminal and allow permissions
 
